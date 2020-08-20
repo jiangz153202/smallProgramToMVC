@@ -7,7 +7,7 @@
     "dev": "supervisor app.js"
   },
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cookie-parser": "~1.4.3",
     "crypto": "^1.0.1",
